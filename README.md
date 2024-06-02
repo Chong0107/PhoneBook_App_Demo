@@ -41,6 +41,8 @@ Before you begin, ensure you have the following installed on your machine:
 ```bash
 npm run dev
 
+2. To run the backend of the project (Database)
+
 ```bash
 python main.py
 ```
