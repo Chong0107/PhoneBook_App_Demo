@@ -45,5 +45,5 @@ npm run dev
 
 ```bash
 python main.py
-```
+
 This will start the development server, and you can access the application at http://localhost:3000 in your browser.
