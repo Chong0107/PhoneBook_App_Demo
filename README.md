@@ -30,9 +30,33 @@ Before you begin, ensure you have the following installed on your machine:
    ```bash
    npm install
    
-4. Install Flask (Python)
+4. Install Flask (Python) - For Window
+
+   a) Flask
    ```bash
    pip install Flask
+
+   b) Object Relation Mapping (ORM)
+    ```bash
+   pip install Flask-SQLAlchemy
+
+   c) CORS
+    ```bash
+   pip install flask-cors
+
+5. Install Flask (Python) - For Mac
+
+   a) Flask
+   ```bash
+   pip3 install Flask
+
+   b) Object Relation Mapping (ORM)
+    ```bash
+   pip3 install Flask-SQLAlchemy
+
+   c) CORS
+    ```bash
+   pip3 install flask-cors
 
 ### Development
 
@@ -41,9 +65,15 @@ Before you begin, ensure you have the following installed on your machine:
    ```bash
    npm run dev
 
-2. To run the backend of the project (Database)
+2. To run the backend of the project (Database) - For Window
 
    ```bash
    python main.py
+
+3. To run the backend of the project (Database) - For Mac
+
+   ```bash
+   python3 main.py
+   
    
 This will start the development server, and you can access the application at http://localhost:3000 in your browser.
