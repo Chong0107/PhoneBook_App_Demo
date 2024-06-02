@@ -33,30 +33,36 @@ Before you begin, ensure you have the following installed on your machine:
 4. Install Flask (Python) - For Window
 
    a) Flask
-   ```bash
-   pip install Flask
+   
+      ```bash
+      pip install Flask
 
    b) Object Relation Mapping (ORM)
-    ```bash
-   pip install Flask-SQLAlchemy
+   
+       ```bash
+      pip install Flask-SQLAlchemy
 
    c) CORS
-    ```bash
-   pip install flask-cors
+   
+      ```bash
+      pip install flask-cors
 
-5. Install Flask (Python) - For Mac
+6. Install Flask (Python) - For Mac
 
    a) Flask
-   ```bash
-   pip3 install Flask
+   
+      ```bash
+      pip3 install Flask
 
    b) Object Relation Mapping (ORM)
-    ```bash
-   pip3 install Flask-SQLAlchemy
+   
+      ```bash
+      pip3 install Flask-SQLAlchemy
 
    c) CORS
-    ```bash
-   pip3 install flask-cors
+   
+      ```bash
+      pip3 install flask-cors
 
 ### Development
 
