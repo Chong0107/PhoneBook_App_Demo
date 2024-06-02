@@ -63,4 +63,4 @@ Before you begin, ensure you have the following installed on your machine:
    python3 main.py
    
    
-This will start the development server, and you can access the application at http://localhost:3000 in your browser.
+This will start the development server, and you can access the application at http://localhost:5173/ in your browser and http://127.0.0.1:5000 for backend.
