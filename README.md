@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Chong0707/PhoneBook-App.git
+   git clone https://github.com/Chong0107/PhoneBook_App_Demo.git
 
 2. Change into the project directory:
    
