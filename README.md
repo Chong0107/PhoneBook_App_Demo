@@ -31,8 +31,6 @@ Before you begin, ensure you have the following installed on your machine:
    npm install
    
 4. Install Flask (Python), Object Relation Mapping (ORM) and CORS - For Window
-
-   a) Flask
    
       ```bash
       pip install Flask
@@ -41,8 +39,6 @@ Before you begin, ensure you have the following installed on your machine:
 
 
 6. Install Flask (Python), Object Relation Mapping (ORM) and CORS - For Mac
-
-   a) Flask
    
       ```bash
       pip3 install Flask
