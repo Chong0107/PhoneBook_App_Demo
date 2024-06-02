@@ -37,13 +37,13 @@ Before you begin, ensure you have the following installed on your machine:
 ### Development
 
 1. To run the project in development mode, use the following command:
-
-```bash
-npm run dev
+   
+   ```bash
+   npm run dev
 
 2. To run the backend of the project (Database)
 
-```bash
-python main.py
-
+   ```bash
+   python main.py
+   
 This will start the development server, and you can access the application at http://localhost:3000 in your browser.
